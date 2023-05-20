@@ -1,8 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Weather.css";
-export default function Weather()
-{
-    return (
+import axios from "axios";
+export default function Weather(){
+
+   return (
       <div className="Weather">
         <form>
             <div className="row">
