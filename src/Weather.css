@@ -1,0 +1,8 @@
+.Weather{background-color: aqua;
+border:1px solid blueviolet;
+}
+.Weather li {
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 19px;
+    list-style: none;}
