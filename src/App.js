@@ -3,6 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div className='container'>
       <h1>Weather-app</h1>
       <footer>
         This project is coded by{" "}
@@ -22,6 +23,7 @@ function App() {
           open-soursed on Github
         </a>
       </footer>
+      </div>
     </div>
   );
 }
