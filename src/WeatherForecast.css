@@ -1,6 +1,12 @@
 .WeatherForecast {
   text-align: center;
-}
+  border: 1px solid transparent;
+  font-family: "Fredoka", sans-serif;
+  padding: 40px 70px;
+  border: 1px solid transparent;
+  border-radius: 25px;
+  background:#ffc93c;
+  }
 
 .WeatherForecast-temperature-min {
   opacity: 0.6;
